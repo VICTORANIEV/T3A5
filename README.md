@@ -31,7 +31,14 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 - Salida:
   -
   -
+
   
 ~~~~
 Diseñar interfas
 ~~~~
+
+
+# Etapa 03. Diseño de la solucion.
+Diagrama de la clase
+
+
