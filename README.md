@@ -41,4 +41,5 @@ Diseñar interfas
 # Etapa 03. Diseño de la solucion.
 Diagrama de la clase
 
+![](https://github.com/VICTORANIEV/T3A5/blob/main/Diagrama_Cuenta.png)
 
