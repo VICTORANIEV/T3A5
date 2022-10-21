@@ -43,5 +43,6 @@ Diagrama de la clase
 
 ![](https://github.com/VICTORANIEV/T3A5/blob/main/Diagrama_Cuenta.png)
 
-
+# Etapa 04. Diseño de solucion
+  
 
